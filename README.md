@@ -8,7 +8,7 @@ DirBuster is a Python tool to find directories on web by checking list of potent
 
 
 ```bash
-git clone https://github.com/yourusername/DirBuster.git
+git clone https://github.com/0xq1/DirBuster.git
 
 cd DirBuster
 
